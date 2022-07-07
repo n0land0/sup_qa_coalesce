@@ -39,6 +39,23 @@ locations:
 macros: {}
 packages: {}
 stepTypes:
+  StepType-1:
+    id: "1"
+    isDisabled: false
+    metadata:
+      error: null
+      nodeMetadataSpec: |-
+        capitalized: New Type
+        short: NEW
+        tagColor: gray
+        `   plural: New Types
+      templates:
+        create:
+          templateString: ""
+        run:
+          templateString: ""
+    name: aaaasevenyaaaaa
+    version: 1
   StepType-Dimension:
     id: Dimension
     isDisabled: false
