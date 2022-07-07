@@ -19,6 +19,7 @@ environments:
       nanoseconds: 496000000
       seconds: 1657211977
     createdBy: DpJbJ4tfSwNIUBvsZqdJI8tW1d72
+    currentlyRunningJobs: []
     description: ""
     devEnv: false
     id: 2
@@ -27,7 +28,7 @@ environments:
         database: NOLAN_DB
         id: 1
         locationName: YO
-        schema: STAGE_QA
+        schema: STAGE
     name: qa
 jobs: {}
 locations:
