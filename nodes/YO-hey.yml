@@ -145,6 +145,6 @@ steps:
       name: hey
       overrideSQL: false
       schema: ""
-      sqlType: Stage
+      sqlType: Satellite
       type: sql
     stepCounter: "10"

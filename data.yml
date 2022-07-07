@@ -14,6 +14,21 @@ environments:
         locationName: YO
         schema: STAGE
     name: DEV
+  qa:
+    createdAt:
+      nanoseconds: 496000000
+      seconds: 1657211977
+    createdBy: DpJbJ4tfSwNIUBvsZqdJI8tW1d72
+    description: ""
+    devEnv: false
+    id: 2
+    mappings:
+      "1":
+        database: NOLAN_DB
+        id: 1
+        locationName: YO
+        schema: STAGE_QA
+    name: qa
 jobs: {}
 locations:
   YO:
@@ -21,6 +36,7 @@ locations:
     id: 1
     locationName: YO
 macros: {}
+packages: {}
 stepTypes:
   StepType-Dimension:
     id: Dimension
